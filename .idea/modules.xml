@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/llm-bridge.iml" filepath="$PROJECT_DIR$/.idea/llm-bridge.iml" />
       <module fileurl="file://$PROJECT_DIR$/sender/sender.iml" filepath="$PROJECT_DIR$/sender/sender.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewer/viewer.iml" filepath="$PROJECT_DIR$/viewer/viewer.iml" />
     </modules>
   </component>
 </project>
